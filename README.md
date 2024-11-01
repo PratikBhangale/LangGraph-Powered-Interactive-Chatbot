@@ -21,8 +21,7 @@ This project is an interactive chatbot powered by LangGraph, designed to provide
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone "https://github.com/PratikBhangale/LangGraph-Powered-Interactive-Chatbot.git"
    ```
 
 2. Install the required packages:
