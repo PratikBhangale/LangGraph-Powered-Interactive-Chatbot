@@ -4,6 +4,8 @@ LangGraph-Powered Interactive Chatbot: Enhanced Document Retrieval and Web Searc
 ## Overview
 This project is an interactive chatbot powered by LangGraph, designed to provide enhanced document retrieval and web search capabilities. The chatbot can answer user queries by leveraging a combination of stored documents and real-time web search results.
 
+   ![Lang-Graph Chatbot](path/to/image.png)
+
 ## Features
 - **Interactive Chat Interface**: Users can ask questions and receive responses in real-time.
 - **Document Retrieval**: The chatbot retrieves relevant information from a vector store of documents.
