@@ -35,7 +35,7 @@ This project is an interactive chatbot powered by LangGraph, designed to provide
 ## Usage
 1. Start the Streamlit app:
    ```bash
-   streamlit run pages/Chat\ With\ Tools.py
+   streamlit run pages/"Chat With Tools.py"
    ```
 
 2. Upload PDF documents to create a data store:
