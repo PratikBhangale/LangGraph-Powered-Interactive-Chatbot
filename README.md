@@ -1,5 +1,5 @@
 # LangGraph-Powered-Interactive-Chatbot
-LangGraph-Powered Offlinw Interactive Chatbot: Enhanced Document Retrieval and Web Search Integration
+LangGraph-Powered Offline Interactive Chatbot: Enhanced Document Retrieval and Web Search Integration
 
 ## Overview
 This project is an interactive chatbot powered by LangGraph, designed to provide enhanced document retrieval and web search capabilities. The chatbot can answer user queries by leveraging a combination of stored documents and real-time web search results.
